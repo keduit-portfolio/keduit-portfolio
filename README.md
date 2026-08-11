@@ -9,7 +9,7 @@
 ## 💻 1. 자바(Java) 기반 웹 개발 프로그래머 과정
 | 프로젝트명 | 핵심 기술 스택 | 주요 기능 및 요약 | 결과물 확인 | 소스 코드 (GitHub) |
 | :--- | :--- | :--- | :--- | :--- |
-| [전자결재 승인 UI개선 프로젝트] | Java, Spring Boot, MySQL | B2B 엔터프라이즈 ERP 시스템 구축 | [https://youtu.be/huslf_G-N1A](#) | [GitHub 이동](#) |
+| [전자결재 승인 UI개선 프로젝트] | Java, Spring Boot, MySQL | B2B 엔터프라이즈 ERP 시스템 구축 | [시연 영상 보기](https://youtu.be/huslf_G-N1A) | [GitHub 이동](#) |
 | [프로젝트명 2] | Java, Spring, React | MSA 기반 이커머스 결제 플랫폼 | [포트폴리오 보기](#) | [GitHub 이동](#) |
 
 ## ☁️ 2. 클라우드 엔지니어 및 서버/네트워크 과정
